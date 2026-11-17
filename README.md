@@ -18,3 +18,11 @@ Las versiones están en **[Releases](../../releases)**.
 
 No hace falta hacer nada: al abrir Minecraft, si hay una versión nueva aparece arriba del menú principal el botón
 **"Actualizar MMORPG Layer"**. Un clic, cierras el juego y al volver a abrirlo ya está instalada.
+
+## Licencia
+
+**Todos los derechos reservados © 2026 NAXSO.** Puedes descargarlo gratis, jugarlo y usarlo en tu servidor, y hacer
+vídeos con él. No está permitido volver a subirlo a otras webs, venderlo, modificarlo ni reutilizar su contenido sin
+permiso. Condiciones completas en [LICENSE.md](LICENSE.md).
+
+NO ES UN PRODUCTO OFICIAL DE MINECRAFT. NO ESTÁ APROBADO NI ASOCIADO CON MOJANG NI MICROSOFT.
